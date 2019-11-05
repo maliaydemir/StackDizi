@@ -1,1 +1,1 @@
-# Stack Dizi C++
+# Stack Dizi -Tek Bağlı Liste C++
